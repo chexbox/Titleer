@@ -1,7 +1,7 @@
-##Expected
+#Expected
 
-##Actual
+#Actual
 
-##Steps to recreate
+#Steps to recreate
 
-##Everything Else (optional)
+#Everything Else (optional)
