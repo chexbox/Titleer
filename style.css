@@ -1,0 +1,17 @@
+body {
+    background-color: lightgrey;
+    color: lime-green;
+    font-family: sans;
+    font-size: 11pt;
+    padding: 5px;
+    text-align: center;
+}
+
+h1 {
+    width: 100%;
+    color: blue;
+    background-color: lime;
+    font-family: sans;
+    font-size: 16pt;
+    padding: 5px;
+}
