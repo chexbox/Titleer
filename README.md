@@ -1,2 +1,4 @@
 # Titleer
-Learning git still
+Titleer is a chrome extension that retitles your tabs.
+
+Still learning git.
