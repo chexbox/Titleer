@@ -22,13 +22,6 @@
         "mac": "Command+Shift+K"
       },
       "description": "Change title!"
-    },
-    "edit": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+L",
-        "mac": "Command+Shift+L"
-      },
-      "description": "Edit any Page!"
     }
   }
 }
